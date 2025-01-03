@@ -4,12 +4,12 @@
 
 - **Name:** G SAI VARSHITH
 - **Pronouns:** He/Him
-- **Age:** 19 years old
+- **Age:** 20 years old
 - **Current Education:** 2nd year B.Tech in Computer Science and Engineering
 - **Institution:** SRM Institute of Science and Technology, Kattankulathur Campus
 
 ## About Me
-  Hello! I'm G SAI VARSHITH, a 19-year-old student pursuing a Bachelor's degree in Computer Science and Engineering. I'm passionate about web development and have set my sights on becoming a full-stack developer. Here's a bit more about me:
+  Hello! I'm G SAI VARSHITH, a 20-year-old student pursuing a Bachelor's degree in Computer Science and Engineering. I'm passionate about web development and have set my sights on becoming a full-stack developer. Here's a bit more about me:
 
 👀 **Interests:** My primary area of interest is web development. I enjoy creating interactive and user-friendly websites and applications.
 I'm interested in web development, coding, and exploring new technologies.
