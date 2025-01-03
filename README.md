@@ -5,7 +5,7 @@
 - **Name:** G SAI VARSHITH
 - **Pronouns:** He/Him
 - **Age:** 20 years old
-- **Current Education:** 2nd year B.Tech in Computer Science and Engineering
+- **Current Education:** 3nd year B.Tech in Computer Science and Engineering
 - **Institution:** SRM Institute of Science and Technology, Kattankulathur Campus
 
 ## About Me
@@ -22,6 +22,10 @@ I'm interested in web development, coding, and exploring new technologies.
     - JavaScript
     - Node.js
     - SQL
+    - Html
+    - CSS
+    - c
+    - c++
 
 💞️ I'm looking to collaborate on exciting web development projects and open-source contributions.
 
