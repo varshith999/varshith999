@@ -5,7 +5,7 @@
 - **Name:** G SAI VARSHITH
 - **Pronouns:** He/Him
 - **Age:** 19 years old
-- **Current Education:** 3rd year B.Tech in Computer Science and Engineering
+- **Current Education:** 3rd year B.Tech in Computer Science and Engineering - AI & ML
 - **Institution:** SRM Institute of Science and Technology, Kattankulathur Campus
 
 ## About Me
