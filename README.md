@@ -33,3 +33,8 @@ I'm currently a student
 </picture>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/varshith999/varshith999/output/snake.svg" alt="Snake animation" />
+
+###
