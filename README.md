@@ -1,6 +1,12 @@
 # 💫 About Me:
 I'm currently a student
+🎓 B.Tech CSE (AI & ML) | 3rd Year @ SRM Institute of Science & Technology
 
+🤖 Passionate about Artificial Intelligence, Machine Learning, and solving real-world problems
+
+🌐 Full-Stack Developer | Building dynamic web apps using PHP, JavaScript, MySQL, and modern frameworks
+
+📱 Currently developing real-world applications — like healthcare chatbots, pharmacy management systems, and intelligent task reminder apps
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varshith_gsv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-varshith-572b2b250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saivarshithgsv@gmail.com) 
