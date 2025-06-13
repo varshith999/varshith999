@@ -1,13 +1,15 @@
 name: pacman game
 
 on:
+# Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 0 * * *"
+    # Allow manual triggering of the workflow
   workflow_dispatch:
+  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
