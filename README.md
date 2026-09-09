@@ -1,12 +1,16 @@
-# 💫 About Me:
-I'm currently a student
-🎓 B.Tech CSE (AI & ML) | 3rd Year @ SRM Institute of Science & Technology
+# 💫 About Me
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and solving real-world problems
+🤖 **AI Engineer Intern @ Sash.AI**, working primarily on **Generative AI and intelligent application development**.
 
-🌐 Full-Stack Developer | Building dynamic web apps using PHP, JavaScript, MySQL, and modern frameworks
+🧠 My work involves **LLMs, RAG, AI Agents, Prompt Engineering, LangChain, LangGraph, and LLM-powered solutions** for real-world use cases.
 
-📱 Currently developing real-world applications — like healthcare chatbots, pharmacy management systems, and intelligent task reminder apps
+💻 I also have experience in **Full-Stack Development**, working with **Python, PHP, JavaScript, MySQL, REST APIs, and modern web technologies**.
+
+🚀 I enjoy transforming ideas into practical **AI-powered products, automation workflows, and intelligent systems**.
+
+🔭 Currently focused on deepening my expertise in **Generative AI, Agentic AI, LLM applications, and Machine Learning**.
+
+⚡ **Build. Experiment. Solve.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varshith_gsv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-varshith-572b2b250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saivarshithgsv@gmail.com) 
